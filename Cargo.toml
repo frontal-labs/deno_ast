@@ -86,7 +86,7 @@ version = "=0.1.4"
 optional = true
 
 [dependencies.swc_ecma_ast]
-version = "=0.118.2"
+version = "=29.0.2"
 features = ["serde-impl"]
 
 [dependencies.swc_ecma_codegen]
