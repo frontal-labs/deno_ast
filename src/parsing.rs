@@ -334,8 +334,8 @@ pub fn get_syntax(media_type: MediaType) -> Syntax {
     | MediaType::SourceMap
     | MediaType::Css
     | MediaType::Html
-	    | MediaType::Sql
-	    | MediaType::Unknown => Syntax::Es(EsSyntax {
+    | MediaType::Sql
+    | MediaType::Unknown => Syntax::Es(EsSyntax {
       allow_return_outside_function: true,
       allow_super_outside_method: true,
       auto_accessors: true,
