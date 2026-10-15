@@ -94,7 +94,7 @@ version = "=0.155.1"
 optional = true
 
 [dependencies.swc_ecma_codegen_macros]
-version = "=0.7.7"
+version = "=2.0.2"
 optional = true
 
 [dependencies.swc_ecma_loader]
