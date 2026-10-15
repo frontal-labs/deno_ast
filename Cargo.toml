@@ -117,7 +117,7 @@ version = "=0.171.0"
 optional = true
 
 [dependencies.swc_ecma_transforms_macros]
-version = "=0.5.5"
+version = "=1.0.1"
 optional = true
 
 [dependencies.swc_ecma_transforms_optimization]
