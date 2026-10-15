@@ -145,7 +145,7 @@ version = "=0.104.8"
 optional = true
 
 [dependencies.swc_eq_ignore_macros]
-version = "=0.1.4"
+version = "=1.0.1"
 
 [dependencies.swc_graph_analyzer]
 version = "=0.26.0"
