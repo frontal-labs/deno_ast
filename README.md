@@ -76,3 +76,7 @@ To upgrade swc:
    dprint-plugin-typescript (Bartek and David have access to publish
    dprint-plugin-typescript).
 1. Open a PR to Deno with the versions bumped and merge the PR.
+
+## Development
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for repository checks and pull request guidance.
