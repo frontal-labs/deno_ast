@@ -38,7 +38,7 @@ name = "public_api"
 path = "tests/public_api.rs"
 
 [dependencies.base64]
-version = "0.21.6"
+version = "0.23.1"
 optional = true
 
 [dependencies.deno_error]
