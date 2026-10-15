@@ -33,6 +33,10 @@ all-features = true
 name = "deno_ast"
 path = "src/lib.rs"
 
+[[test]]
+name = "public_api"
+path = "tests/public_api.rs"
+
 [dependencies.base64]
 version = "0.21.6"
 optional = true
