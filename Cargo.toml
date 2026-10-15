@@ -160,7 +160,7 @@ version = "=0.1.3"
 optional = true
 
 [dependencies.swc_visit]
-version = "=0.6.2"
+version = "=2.0.2"
 optional = true
 
 [dependencies.swc_visit_macros]
