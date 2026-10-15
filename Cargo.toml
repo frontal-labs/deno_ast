@@ -71,7 +71,7 @@ optional = true
 version = "=0.6.7"
 
 [dependencies.swc_bundler]
-version = "=0.237.0"
+version = "=57.0.0"
 optional = true
 
 [dependencies.swc_common]
